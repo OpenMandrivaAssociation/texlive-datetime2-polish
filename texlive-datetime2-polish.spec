@@ -3,7 +3,7 @@ Version:	48456
 Release:	2
 Summary:	Polish language module for the datetime2 package
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/datetime2-polish
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/datetime2-polish
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/datetime2-polish.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/datetime2-polish.doc.r%{version}.tar.xz
